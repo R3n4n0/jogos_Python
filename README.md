@@ -1,4 +1,4 @@
-# Projeto feito no curso de Python 3 parte 1 e parte 2
+<h1 align=center> Projeto feito no curso de Python 3 parte 1 e parte 2
 
 ## Adivinhação.py
 Precisa descobrir qual número foi gerado entre 1 e 100
